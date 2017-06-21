@@ -1,0 +1,8 @@
+com\shpilly_willy\simple_authorization_on_spring\controller\MainController.class
+com\shpilly_willy\simple_authorization_on_spring\controller\LoginController.class
+com\shpilly_willy\simple_authorization_on_spring\entity\enums\UserRoleEnum.class
+com\shpilly_willy\simple_authorization_on_spring\service\UserServiceImpl.class
+com\shpilly_willy\simple_authorization_on_spring\entity\User.class
+com\shpilly_willy\simple_authorization_on_spring\service\UserService.class
+com\shpilly_willy\simple_authorization_on_spring\Application.class
+com\shpilly_willy\simple_authorization_on_spring\service\UserDetailsServiceImpl.class
