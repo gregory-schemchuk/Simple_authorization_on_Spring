@@ -1,3 +1,5 @@
+D:\Development\PROJECTS\simple_authorization_on_spring\src\main\java\com\shpilly_willy\simple_authorization_on_spring\config\Initializer.java
+D:\Development\PROJECTS\simple_authorization_on_spring\src\main\java\com\shpilly_willy\simple_authorization_on_spring\config\SecurityConfig.java
 D:\Development\PROJECTS\simple_authorization_on_spring\src\main\java\com\shpilly_willy\simple_authorization_on_spring\service\UserServiceImpl.java
 D:\Development\PROJECTS\simple_authorization_on_spring\src\main\java\com\shpilly_willy\simple_authorization_on_spring\entity\User.java
 D:\Development\PROJECTS\simple_authorization_on_spring\src\main\java\com\shpilly_willy\simple_authorization_on_spring\service\UserDetailsServiceImpl.java
@@ -6,3 +8,4 @@ D:\Development\PROJECTS\simple_authorization_on_spring\src\main\java\com\shpilly
 D:\Development\PROJECTS\simple_authorization_on_spring\src\main\java\com\shpilly_willy\simple_authorization_on_spring\service\UserService.java
 D:\Development\PROJECTS\simple_authorization_on_spring\src\main\java\com\shpilly_willy\simple_authorization_on_spring\controller\MainController.java
 D:\Development\PROJECTS\simple_authorization_on_spring\src\main\java\com\shpilly_willy\simple_authorization_on_spring\controller\LoginController.java
+D:\Development\PROJECTS\simple_authorization_on_spring\src\main\java\com\shpilly_willy\simple_authorization_on_spring\config\WebAppConfig.java
